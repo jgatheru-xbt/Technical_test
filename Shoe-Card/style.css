@@ -58,6 +58,12 @@ section{
     font-weight: lighter;
 }
 .star{
-    background-color: #fff;
-    border: 1px solid #111;
+    width: 29px;
+    height: 29px;
+    background: url(Images/star-42153_1280.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    border: 2px solid #010101;
 }
